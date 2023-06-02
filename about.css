@@ -160,7 +160,7 @@ padding: 1rem;
 article{
     display: grid;
     grid-template-columns: repeat(10, 1fr); /* this means to repeat column no
-    to 10giving each cells one fraction each*/
+    to 10 giving each cells one fraction each*/
     gap: 1rem;
 }
 #projects{
@@ -168,7 +168,7 @@ article{
     margin: 0 auto;
 }
  img{
-    grid-column: 1/6;/* this meand the image would take up 6 out of
+    grid-column: 1/6;/* this means the image would take up 6 out of
     the 10 columns*/
     grid-row: 1/2;
 }
